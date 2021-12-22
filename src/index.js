@@ -7,7 +7,6 @@ import {defineCustomElements} from 'am-play-fetch-components/dist/esm/loader'
 ReactDOM.render(
   <React.StrictMode>
     <App />
-  
   </React.StrictMode>,
   document.getElementById('root')
 );
