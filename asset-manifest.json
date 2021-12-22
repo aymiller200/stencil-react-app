@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aymiller200/stencil-react-app/static/css/main.518ce94c.chunk.css",
-    "main.js": "/aymiller200/stencil-react-app/static/js/main.d339dbc6.chunk.js",
-    "main.js.map": "/aymiller200/stencil-react-app/static/js/main.d339dbc6.chunk.js.map",
-    "runtime-main.js": "/aymiller200/stencil-react-app/static/js/runtime-main.b347a18d.js",
-    "runtime-main.js.map": "/aymiller200/stencil-react-app/static/js/runtime-main.b347a18d.js.map",
-    "static/js/2.b8e3d8bd.chunk.js": "/aymiller200/stencil-react-app/static/js/2.b8e3d8bd.chunk.js",
-    "static/js/2.b8e3d8bd.chunk.js.map": "/aymiller200/stencil-react-app/static/js/2.b8e3d8bd.chunk.js.map",
-    "static/js/3.410f72fb.chunk.js": "/aymiller200/stencil-react-app/static/js/3.410f72fb.chunk.js",
-    "static/js/3.410f72fb.chunk.js.map": "/aymiller200/stencil-react-app/static/js/3.410f72fb.chunk.js.map",
-    "index.html": "/aymiller200/stencil-react-app/index.html",
-    "static/css/main.518ce94c.chunk.css.map": "/aymiller200/stencil-react-app/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.b8e3d8bd.chunk.js.LICENSE.txt": "/aymiller200/stencil-react-app/static/js/2.b8e3d8bd.chunk.js.LICENSE.txt"
+    "main.css": "/stencil-react-app/static/css/main.518ce94c.chunk.css",
+    "main.js": "/stencil-react-app/static/js/main.d339dbc6.chunk.js",
+    "main.js.map": "/stencil-react-app/static/js/main.d339dbc6.chunk.js.map",
+    "runtime-main.js": "/stencil-react-app/static/js/runtime-main.8e29916d.js",
+    "runtime-main.js.map": "/stencil-react-app/static/js/runtime-main.8e29916d.js.map",
+    "static/js/2.b8e3d8bd.chunk.js": "/stencil-react-app/static/js/2.b8e3d8bd.chunk.js",
+    "static/js/2.b8e3d8bd.chunk.js.map": "/stencil-react-app/static/js/2.b8e3d8bd.chunk.js.map",
+    "static/js/3.410f72fb.chunk.js": "/stencil-react-app/static/js/3.410f72fb.chunk.js",
+    "static/js/3.410f72fb.chunk.js.map": "/stencil-react-app/static/js/3.410f72fb.chunk.js.map",
+    "index.html": "/stencil-react-app/index.html",
+    "static/css/main.518ce94c.chunk.css.map": "/stencil-react-app/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.b8e3d8bd.chunk.js.LICENSE.txt": "/stencil-react-app/static/js/2.b8e3d8bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b347a18d.js",
+    "static/js/runtime-main.8e29916d.js",
     "static/js/2.b8e3d8bd.chunk.js",
     "static/css/main.518ce94c.chunk.css",
     "static/js/main.d339dbc6.chunk.js"
